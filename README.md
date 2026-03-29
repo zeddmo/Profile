@@ -6,7 +6,7 @@ Main CV page:
 Project README:
 - https://github.com/zeddmo/zeddmo-showcase/blob/main/README.md
 
-Landing launchpad:
+Portfolio Hub:
 - https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/index.html
 
 All pages are public-proof and private-source.
